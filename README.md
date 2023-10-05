@@ -52,6 +52,10 @@ Welcome to the To-Do List App! This web-based application allows you to create a
 
 <img width="1191" alt="Screen Shot 2023-10-05 at 9 37 55 AM" src="https://github.com/Hsolojr/ToDoList/assets/139496108/b2bcfa97-7ec4-4725-93e0-e3242f327254">
 
+## Link
+
+ https://hsolojr.github.io/ToDoList/ 
+
 ## Contributing
 
 Contributions would include Youtube ASMRProgs for providing step by steps tools for the app
@@ -64,7 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or need further assistance, feel free to contact us at:
 
-- Email: your@email.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- Email: Hugo.soloriojr@gmail.com
 
 Thank you for using our To-Do List App! We hope it helps you stay organized and productive.
